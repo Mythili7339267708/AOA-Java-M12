@@ -1,5 +1,6 @@
 
 # EX 2D Pattern Matching using Naive Approach.
+## Date: 12.07.26
 ## AIM:
 To write a Java program to for given constraints.
 Given text string with length n and a pattern with length m, the task is to prints all occurrences of pattern in text.
@@ -26,8 +27,8 @@ m = length of pattern
 9. End
 
 ## Program:
-Developed by: V Mythili 
-Register Number:  212223040123
+### Developed by: V Mythili 
+### Register Number:  212223040123
 
 ```
 import java.util.Scanner;
